@@ -8,9 +8,9 @@ Whenever we write code, errors are likely to occur. These errors help us learn h
 
 In Python, errors are mainly classified into three categories:
 
-1. Syntax Errors
-2. Runtime Errors
-3. Logical Errors
+1. **Syntax Errors**
+2. **Runtime Errors**
+3. **Logical Errors**
 
 ---
 
