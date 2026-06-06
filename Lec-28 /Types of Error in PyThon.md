@@ -1,5 +1,6 @@
-# 🐍 **Types of Error** in PyThon <br>
-*Video Link :* https://youtu.be/aPNQdMmyQKA?si=lGJ0coZ_quWfPlwQ <br>
+# 🍃 Types of Error in PyThon
+
+<sub>📺 <a href="https://youtu.be/aPNQdMmyQKA?si=1GJ0coZ_quWfP1wQ">Video Link</a></sub>
 
 Errors are a natural part of coding in any language. They are valuable because they teach you how to code correctly. In Python, errors are broadly categorized into three main types.
 
