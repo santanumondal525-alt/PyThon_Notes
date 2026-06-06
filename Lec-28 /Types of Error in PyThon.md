@@ -1,5 +1,8 @@
-# 🐍 Python Errors Study Notes
+# 🐍 **Types of Error** in PyThon <br>
 
+
+Video Link : https://youtu.be/aPNQdMmyQKA?si=lGJ0coZ_quWfPlwQ <br>
+---
 Errors are a natural part of coding in any language. They are valuable because they teach you how to code correctly. In Python, errors are broadly categorized into three main types.
 
 1. **🚫 Syntax Errors**
@@ -8,7 +11,7 @@ Errors are a natural part of coding in any language. They are valuable because t
 
 ---
 
-## 1. 🚫 Syntax Errors
+### 1. 🚫 Syntax Errors
 These occur when you violate the grammar rules of Python. The code cannot even run; the interpreter points out the error before execution. Think of it like a spelling or grammar mistake.
 
 - **📝 Definition:** An error in the structure or rules of the language.
@@ -22,7 +25,7 @@ These occur when you violate the grammar rules of Python. The code cannot even r
 
 ---
 
-## 2. ⏱️ Runtime Errors (or Exceptions)
+### 2. ⏱️ Runtime Errors (or Exceptions)
 These errors occur while the program is running. The grammar is perfect, but during execution, an operation is impossible.
 
 - **📝 Definition:** An error that crashes a running program, even with correct syntax.
@@ -53,7 +56,7 @@ These errors occur while the program is running. The grammar is perfect, but dur
 
 ---
 
-## 3. 🧠 Logical Errors
+### 3. 🧠 Logical Errors
 These are the sneaky errors. The code runs perfectly without crashing and gives an output, but the output is **wrong** because the logic or algorithm is flawed.
 
 - **📝 Definition:** An error that produces an incorrect result while the program runs successfully.
@@ -84,5 +87,3 @@ These are the sneaky errors. The code runs perfectly without crashing and gives 
 | **Syntax** | Before Execution | ❌ No | 🚫 | Violates grammar (missing `:`, `" "`). |
 | **Runtime** | During Execution | ⚠️ Starts, then Crashes | ⏱️ | Syntax OK, but operation fails (wrong type). |
 | **Logical** | During Execution | ✅ Yes, fully | 🧠 | Runs, but produces an incorrect output. |
-
-Happy Learning! 🎉🐍
